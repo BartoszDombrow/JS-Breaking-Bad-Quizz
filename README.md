@@ -1,6 +1,5 @@
 # Breaking Bad Quiz
 
-[![codecov](https://codecov.io/gh/PiotrRynio/CodersCamp2021.Project.JavaScript/branch/main/graph/badge.svg?token=UF79DJ2XLN)](https://codecov.io/gh/PiotrRynio/CodersCamp2021.Project.JavaScript)
 
 ###### Demo: [LINK](https://breaking-bad-quiz-game.netlify.app)
 
@@ -25,7 +24,6 @@ The purpose of this application is to learn the possibilites and boundaries of t
 - API URL: [An API of Breaking Bad](https://breakingbadapi.com/documentation)
 - Figma project: [Figma](https://www.figma.com/file/veHEbh07ejU9z4oIZpS9q7/Breaking-Bad-Quiz-App?node-id=5%3A421)
 - Demo on Netlify: [LINK](https://breaking-bad-quiz-game.netlify.app)
-- Repo url: [LINK](https://github.com/PiotrRynio/CodersCamp2021.Project.JavaScript.git)
 
 ## Our Crew
 
